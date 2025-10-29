@@ -17,7 +17,7 @@ Este projeto utiliza Puppeteer para realizar scraping de dados de websites. Atua
 1. Clone o repositório:
 ```bash
 git clone https://github.com/GuilhermePB1/scrap-Simples-Puppeteer.git
-cd scrapPuppeteer
+cd scrap-Simples-Puppeteer
 ```
 
 2. Instale as dependências:
@@ -42,7 +42,7 @@ O script irá:
 ## 📁 Estrutura do Projeto
 
 ```
-scrapPuppeteer/
+scrap-Simples-Puppeteer/
 ├── index.js          # Arquivo principal com a lógica de scraping
 ├── package.json       # Configurações e dependências do projeto
 ├── .gitignore        # Arquivos ignorados pelo Git
