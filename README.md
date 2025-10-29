@@ -1,4 +1,4 @@
-# Monitorar Assinaturas - Web Scraper
+# WebScrap Simples com o Puppeteer
 
 Um projeto de web scraping desenvolvido com Node.js e Puppeteer para extrair dados de sites web de forma automatizada.
 
